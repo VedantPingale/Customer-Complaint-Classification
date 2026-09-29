@@ -1,0 +1,122 @@
+{
+  "categories": [
+    {
+      "name": "Credit reporting, credit repair services, or other personal consumer reports",
+      "short_name": "Credit Reporting",
+      "subcategories": [
+        "Incorrect information on your report",
+        "Problem with a credit reporting company's investigation",
+        "Improper use of your report",
+        "Unable to get your credit report or credit score",
+        "Credit monitoring or identity theft protection services"
+      ]
+    },
+    {
+      "name": "Debt collection",
+      "short_name": "Debt Collection",
+      "subcategories": [
+        "Attempts to collect debt not owed",
+        "Written notification about debt",
+        "Took or threatened to take negative or legal action",
+        "False statements or representation",
+        "Communication tactics"
+      ]
+    },
+    {
+      "name": "Mortgage",
+      "short_name": "Mortgage",
+      "subcategories": [
+        "Trouble during payment process",
+        "Struggling to pay mortgage",
+        "Applying for a mortgage or refinancing",
+        "Closing on a mortgage",
+        "Loan servicing, payments, escrow account"
+      ]
+    },
+    {
+      "name": "Credit card or prepaid card",
+      "short_name": "Credit Card",
+      "subcategories": [
+        "Problem with a purchase shown on your statement",
+        "Fees or interest",
+        "Other features, terms, or problems",
+        "Getting a credit card",
+        "Closing your account",
+        "Billing dispute"
+      ]
+    },
+    {
+      "name": "Checking or savings account",
+      "short_name": "Bank Account",
+      "subcategories": [
+        "Managing an account",
+        "Problem caused by your funds being low",
+        "Closing an account",
+        "Opening an account",
+        "Problem with a lender or other company charging your account"
+      ]
+    },
+    {
+      "name": "Student loan",
+      "short_name": "Student Loan",
+      "subcategories": [
+        "Dealing with your lender or servicer",
+        "Struggling to repay your loan",
+        "Getting a loan",
+        "Can't get other flexible options"
+      ]
+    },
+    {
+      "name": "Vehicle loan or lease",
+      "short_name": "Vehicle Loan",
+      "subcategories": [
+        "Managing the loan or lease",
+        "Problems at the end of the loan or lease",
+        "Getting a loan or lease",
+        "Struggling to pay your loan"
+      ]
+    },
+    {
+      "name": "Money transfer, virtual currency, or money service",
+      "short_name": "Money Transfer",
+      "subcategories": [
+        "Domestic (US) money transfer",
+        "International money transfer",
+        "Mobile or digital wallet",
+        "Virtual currency",
+        "Fraud or scam"
+      ]
+    },
+    {
+      "name": "Payday loan, title loan, or personal loan",
+      "short_name": "Personal Loan",
+      "subcategories": [
+        "Getting the loan or lease",
+        "Charged fees or interest I didn't expect",
+        "Problem with the payoff process at the end of the loan",
+        "Struggling to pay your loan"
+      ]
+    }
+  ],
+  "teams": [
+    "Credit Reports Team",
+    "Debt Collection Team",
+    "Mortgage Team",
+    "Cards Team",
+    "Banking Team",
+    "Loans Team",
+    "Transfers Team",
+    "General Support"
+  ],
+  "category_team_mapping": {
+    "Credit reporting, credit repair services, or other personal consumer reports": "Credit Reports Team",
+    "Debt collection": "Debt Collection Team",
+    "Mortgage": "Mortgage Team",
+    "Credit card or prepaid card": "Cards Team",
+    "Checking or savings account": "Banking Team",
+    "Student loan": "Loans Team",
+    "Vehicle loan or lease": "Loans Team",
+    "Money transfer, virtual currency, or money service": "Transfers Team",
+    "Payday loan, title loan, or personal loan": "Loans Team"
+  }
+}

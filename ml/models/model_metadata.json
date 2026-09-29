@@ -1,0 +1,79 @@
+{
+  "version": "tfidf_lr_v1_20260929_174426",
+  "model_type": "tfidf_logistic_regression",
+  "trained_at": "2026-09-29T17:44:26.159530+00:00",
+  "num_categories": 9,
+  "categories": [
+    "Checking or savings account",
+    "Credit card or prepaid card",
+    "Credit reporting, credit repair services, or other personal consumer reports",
+    "Debt collection",
+    "Money transfer, virtual currency, or money service",
+    "Mortgage",
+    "Payday loan, title loan, or personal loan",
+    "Student loan",
+    "Vehicle loan or lease"
+  ],
+  "vectorizer_features": 344,
+  "metrics": {
+    "val_accuracy": 0.9788269651983451,
+    "val_f1_weighted": 0.9782870938789782,
+    "val_f1_macro": 0.946119563794944,
+    "per_class": {
+      "Checking or savings account": {
+        "precision": 1.0,
+        "recall": 0.9706,
+        "f1": 0.9851,
+        "support": 136
+      },
+      "Credit card or prepaid card": {
+        "precision": 0.9788,
+        "recall": 0.8777,
+        "f1": 0.9255,
+        "support": 368
+      },
+      "Credit reporting, credit repair services, or other personal consumer reports": {
+        "precision": 0.9646,
+        "recall": 0.999,
+        "f1": 0.9815,
+        "support": 1908
+      },
+      "Debt collection": {
+        "precision": 0.998,
+        "recall": 1.0,
+        "f1": 0.999,
+        "support": 991
+      },
+      "Money transfer, virtual currency, or money service": {
+        "precision": 0.9835,
+        "recall": 1.0,
+        "f1": 0.9917,
+        "support": 119
+      },
+      "Mortgage": {
+        "precision": 0.9972,
+        "recall": 0.9754,
+        "f1": 0.9862,
+        "support": 366
+      },
+      "Payday loan, title loan, or personal loan": {
+        "precision": 0.9412,
+        "recall": 0.64,
+        "f1": 0.7619,
+        "support": 25
+      },
+      "Student loan": {
+        "precision": 0.9885,
+        "recall": 0.9149,
+        "f1": 0.9503,
+        "support": 94
+      },
+      "Vehicle loan or lease": {
+        "precision": 0.9684,
+        "recall": 0.902,
+        "f1": 0.934,
+        "support": 102
+      }
+    }
+  }
+}

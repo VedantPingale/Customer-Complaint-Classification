@@ -1,0 +1,23 @@
+{
+  "total_samples": 27393,
+  "train_size": 19175,
+  "val_size": 4109,
+  "test_size": 4109,
+  "num_categories": 9,
+  "categories": [
+    "Checking or savings account",
+    "Credit card or prepaid card",
+    "Credit reporting, credit repair services, or other personal consumer reports",
+    "Debt collection",
+    "Money transfer, virtual currency, or money service",
+    "Mortgage",
+    "Payday loan, title loan, or personal loan",
+    "Student loan",
+    "Vehicle loan or lease"
+  ],
+  "split_ratios": {
+    "train": 0.7,
+    "val": 0.15,
+    "test": 0.15
+  }
+}
